@@ -37,3 +37,13 @@ Analyzes text input (reviews, comments, feedback) and predicts sentiment such as
 
 **Tech Used:** Python, Machine Learning, NLP, Streamlit, Scikit-learn
 
+
+### 4 Customer Segmentation System
+
+A Machine Learning project that groups customers into different segments based on their behavior and purchasing patterns.  
+Helps businesses understand their customers and create targeted marketing strategies.
+
+Live Demo:https://customer-segmentation-app-9cmfreyzenuvzy5pidheuw.streamlit.app/
+Repo url:https://github.com/Farhana42kosar/Customer-segmentation-app
+
+
