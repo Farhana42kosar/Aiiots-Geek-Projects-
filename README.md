@@ -46,4 +46,10 @@ Helps businesses understand their customers and create targeted marketing strate
 Live Demo:https://customer-segmentation-app-9cmfreyzenuvzy5pidheuw.streamlit.app/
 Repo url:https://github.com/Farhana42kosar/Customer-segmentation-app
 
+### 5 House Price Prediction
+House Price Prediction is a machine learning application that estimates property prices based on features such as location, size, and amenities. The model is trained on historical housing data and provides quick, data-driven predictions through an interactive interface.
+
+Live Demo:https://house-price-prediction-hvphhjms8tncuh4en5xsfk.streamlit.app/
+Repo Link:https://github.com/Farhana42kosar/House-Price-Prediction
+
 
