@@ -26,12 +26,12 @@ This project uses Natural Language Processing (NLP) and a trained deep learning 
 
 
 ##  How It Works
-1. The user uploads a resume in PDF format.
-2.The system extracts text from the resume.
-3.Text preprocessing is performed to clean the content.
-4.The trained model predicts the most suitable domain.
-5.The system calculates an ATS score based on resume structure and content.
-6.Relevant job recommendations are generated.
+ 1. The user uploads a resume in PDF format.
+ 2.The system extracts text from the resume.
+ 3.Text preprocessing is performed to clean the content.
+ 4.The trained model predicts the most suitable domain.
+ 5.The system calculates an ATS score based on resume structure and content.
+ 6.Relevant job recommendations are generated.
 
 
 
